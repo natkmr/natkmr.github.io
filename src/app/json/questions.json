@@ -1,0 +1,1021 @@
+{
+  "questionList" :
+  [
+    {
+      "id": "1",
+      "question": "Que signifie l’assimilation à la société française ?",
+      "answer": "Adhérer aux principes et aux valeurs essentiels de la République française."
+    },
+    {
+      "id": "2",
+      "question": "Quelles sont les valeurs de la République française ?",
+      "answer": "Liberté, égalité, fraternité."
+    },
+    {
+      "id": "3",
+      "question": "C’est quoi pour vous la liberté ?",
+      "answer": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui (les êtres humains naissent et demeurent libres et égaux en droits). Les libertés fondamentales sont garanties par la République française : liberté de pensée, liberté de croyance, liberté de s’exprimer, liberté de se réunir."
+    },
+    {
+      "id": "4",
+      "question": "À quand remonte la loi pour la liberté de la presse ?",
+      "answer": "Dans les années 1880, des lois garantissent la liberté de la presse."
+    },
+    {
+      "id": "5",
+      "question": "C’est quoi pour vous la liberté d'expression ?",
+      "answer": "C’est un droit fondamental. Cependant, elle a des limites, pour respecter les droits des autres. Il est ainsi interdit de diffuser des injures, des propos diffamatoires, des provocations à la haine, des propos troublant l’ordre public, ou de faire l’apologie de crimes contre l’humanité."
+    },
+    {
+      "id": "6",
+      "question": "Que dit la loi de 1901 ?",
+      "answer": "C’est la liberté de se réunir, chacun a la liberté de créer une association (loi 1901) ou de participer à celles de son choix. Il peut adhérer librement aux partis ou groupements politiques et défendre ses droits et ses intérêts par l’action syndicale."
+    },
+    {
+      "id": "7",
+      "question": "C’est quoi pour vous la liberté de croyance ?",
+      "answer": "Chacun est libre de croire ou de ne pas croire et d’adopter la religion qu’il souhaite."
+    },
+    {
+      "id": "8",
+      "question": "C’est quoi pour vous l'égalité ?",
+      "answer": "Tous les citoyens ont les mêmes droits et les mêmes devoirs quels que soient leur sexe, leur origine, leur religion, leurs opinions ou leur orientation sexuelle."
+    },
+    {
+      "id": "9",
+      "question": "C’est quoi pour vous la fraternité ?",
+      "answer": "C’est la solidarité entre les citoyens pour la défense et à la cohésion de la nation, la contribution aux dépenses de la nation et la protection de la santé et la sécurité matérielle."
+    },
+    {
+      "id": "10",
+      "question": "C’est quoi pour vous la laïcité ?",
+      "answer": "Consacré par « la loi de 1905 » qui sépare les églises de l’état. L’état est neutre envers les religions. Il n’aide aucune religion. La religion relève de la vie privée de chacun ; chacun est libre de croire ou de ne pas croire et d’adopter la religion qu’il souhaite."
+    },
+    {
+      "id": "11",
+      "question": "Quels sont les principes de la République française ?",
+      "answer": "La France est une République indivisible, laïque, démocratique et sociale."
+    },
+    {
+      "id": "12",
+      "question": "Que signifie indivisible ?",
+      "answer": "La souveraineté nationale appartient au peuple qui l’exerce par ses représentants élus et par la voie du référendum. Aucune partie du peuple, ni aucun individu, ne peut s’en attribuer l’exercice."
+    },
+    {
+      "id": "13",
+      "question": "C’est quoi un référendum ?",
+      "answer": "Le Président de la République pose une question au peuple et le peuple doit répondre par oui ou par non."
+    },
+    {
+      "id": "14",
+      "question": "Que signifie une République laïque ?",
+      "answer": "La République assure la liberté de conscience. Elle respecte toutes les croyances. Chacun est libre de croire, de ne pas croire, de changer de religion. La République garantit le libre exercice des cultes mais n’en reconnaît, n’en salarie ni ne subventionne aucun. L’état et les religions sont séparés."
+    },
+    {
+      "id": "15",
+      "question": "Que signifie une République démocratique ?",
+      "answer": "Le principe de la République est : gouvernement du peuple, par le peuple et pour le peuple. Direct ou indirect, le suffrage est toujours universel, égal et secret. La loi étant l’expression de la volonté générale, tout citoyen doit la respecter. Nul ne peut être contraint à faire ce que la loi n’ordonne pas. Rendue au nom du peuple français, la justice est indépendante. La force publique garantit le respect de la loi et des décisions de justice."
+    },
+    {
+      "id": "16",
+      "question": "C’est quoi la démocratie ?",
+      "answer": "Gouvernement dans laquelle la souveraineté appartient au peuple, les dirigeants de l’état sont élus au suffrage universel : cela signifie que tous les citoyens, hommes et femmes, ont le droit de vote."
+    },
+    {
+      "id": "17",
+      "question": "Que signifie une République sociale ?",
+      "answer": "La nation assure à l’individu et à la famille les conditions nécessaires à leur développement. La République garantit à tous la sécurité des personnes et des biens."
+    },
+    {
+      "id": "18",
+      "question": "Quels sont les symboles de la République française",
+      "answer": "Le drapeau tricolore : bleu, blanc, rouge / la Marseillaise / Marianne / le 14 juillet / liberté, égalité, fraternité / le coq / le sceau de la République / le faisceau du licteur."
+    },
+    {
+      "id": "19",
+      "question": "Quel est l’emblème national ?",
+      "answer": "Le drapeau tricolore : bleu, blanc, rouge : né sous la révolution française, il flotte sur tous les bâtiments publics. Il est déployé dans la plupart des cérémonies officielles, qu'elles soient civiles ou militaires. Le bleu et rouge pour la ville de Paris et le blanc c'est couleur du Roi.",
+      "images": [
+        "assets/images/DRAPEAU.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "question": "Quel est l’hymne national ?",
+      "answer": "La Marseillaise de Claude-joseph rouget de l’Isle : 1792 quand la France à déclarer la guerre à l’Autriche, repris par les marseillais à Paris.",
+      "images": [
+        "assets/images/MARSEILLAISE.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "question": "Que représente Marianne ?",
+      "answer": "Marianne est la représentation symbolique de la République. Avec le \"bonnet phrygien \" c'est le bonnet que portaient dans l'antiquité les esclaves que leur maître avait décidé d’affranchir. C’est une icône de la liberté et de la démocratie.",
+      "images": [
+        "assets/images/MARIANNE1.jpg",
+        "assets/images/MARIANNE2.jpg",
+        "assets/images/MARIANNE3.jpg"
+      ]
+    },
+    {
+      "id": "22",
+      "question": "Que fête-on le 14 juillet ?",
+      "answer": "C’est la fête nationale, le 14 juillet 1789, le peuple de Paris s’empare de la prison royale de la bastille. Symbole de la liberté, puis le 14 juillet 1790 c'est la fête de la fédération qui fêtait l'unité de tous les français."
+    },
+    {
+      "id": "23",
+      "question": "Que représente le coq ?",
+      "answer": "En latin (gaulois), (Gallus) veut dire à la fois (coq) et à la fois (gaulois).",
+      "images": [
+        "assets/images/COQ.jpg"
+      ]
+    },
+    {
+      "id": "24",
+      "question": "Que représente le sceau de la République ?",
+      "answer": "Il représente ses attributs : la femme qui représente la liberté, le coq et l'agriculture.",
+      "images": [
+        "assets/images/SCEAU1.jpg",
+        "assets/images/SCEAU2.jpg"
+      ]
+    },
+    {
+      "id": "25",
+      "question": "Que représente le faisceau du licteur ?",
+      "answer": "Il représentait l'union de tous les français.(Symbolisés par les branches) autour d'une même cause (la liberté).",
+      "images": [
+        "assets/images/LICTEUR.jpg"
+      ]
+    },
+    {
+      "id": "26",
+      "question": "C’est quoi le code civil ?",
+      "answer": "Les règles essentielles applicables entre les personnes sont définies par le code civil. Chacun doit respecter les lois et les règlements."
+    },
+    {
+      "id": "27",
+      "question": "Depuis quand date le code civil ?",
+      "answer": "Napoléon I -1804."
+    },
+    {
+      "id": "28",
+      "question": "Quels sont les droits conférés par la nationalité ?",
+      "answer": "Le droit de participer à l’élection des représentants du peuple dès 18 ans (c’est aussi un devoir civique) / accès aux emplois publics / droit d’être éligible."
+    },
+    {
+      "id": "29",
+      "question": "Quels sont les devoirs conférés par la nationalité ?",
+      "answer": "Concourir à la défense nationale à partir de 16 ans (les français doivent se faire recenser à la mairie pour participer à la journée défense et citoyenneté) / participer aux jurys d’assises."
+    },
+    {
+      "id": "30",
+      "question": "C’est quoi un jurys d’assises ?",
+      "answer": "Un juré est un citoyen tiré au sort sur les listes électorales pour siéger à la cour d'assises. Il participe aux côtés des magistrats professionnels au procès des personnes accusées de crime. Le juré exerce pleinement la fonction de juge. Si vous êtes retenu pour siéger lors d'une session d'assises, vous êtes obligé de le faire sauf s'il y a un motif grave qui vous en empêche. Vous devez respecter certaines obligations. Vous avez droit à des indemnités."
+    },
+    {
+      "id": "31",
+      "question": "C’est quoi la cour d'assises ?",
+      "answer": "En France, la cour d'assises est une juridiction départementale, compétente pour juger les personnes accusées d’avoir commis un crime."
+    },
+    {
+      "id": "32",
+      "question": "C’est quoi le conseil constitutionnel ?",
+      "answer": "Le conseil constitutionnel est une institution propre à la Vème République, en charge du contrôle de la conformité des lois à la constitution et du contentieux des élections nationales (mandat des membres du conseil 9 ans)."
+    },
+    {
+      "id": "33",
+      "question": "Où siège le Président de la République ?",
+      "answer": "Le palais de l’Elysée, résidence officielle et siège de la présidence de la République.",
+      "images": [
+        "assets/images/ELYSEE.jpg"
+      ]
+    },
+    {
+      "id": "34",
+      "question": "Où siège le Premier Ministre ?",
+      "answer": "L’hôtel de Matignon est la résidence officielle et le lieu de travail du chef du gouvernement français.",
+      "images": [
+        "assets/images/MATIGNON.jpg"
+      ]
+    },
+    {
+      "id": "35",
+      "question": "Où siège l’assemblée nationale ?",
+      "answer": "C’est le palais bourbon à Paris. L’assemblée nationale compte 577 membres, appelés (députés), élus au suffrage universel pour une durée de cinq ans.",
+      "images": [
+        "assets/images/BOURBON.jpg"
+      ]
+    },
+    {
+      "id": "36",
+      "question": "Où siège le sénat ?",
+      "answer": "Il siège au palais du Luxembourg. Il est le représentant des collectivités territoriales. Durée du mandat 6 ans.",
+      "images": [
+        "assets/images/LUXEMBOURG.jpg"
+      ]
+    },
+    {
+      "id": "37",
+      "question": "En cas de décès du Président à qui est confiée l'intérim ?",
+      "answer": "L’intérim des fonctions Présidentielles est confié au Président du sénat (Gérard Larcher), ou en cas d'empêchement, au gouvernement.",
+      "images": [
+        "assets/images/Larcher.jpg"
+      ]
+    },
+    {
+      "id": "38",
+      "question": "Qui décide de vous octroyer la nationalité ?",
+      "answer": "Le Ministre de l’intérieur Gérald DARMANIN.",
+      "images": [
+        "assets/images/Darmanin.jpg"
+      ]
+    },
+    {
+      "id": "39",
+      "question": "C’est quoi la cohabitation ?",
+      "answer": "La cohabitation désigne la coexistence institutionnelle entre un chef de l'état et un chef du gouvernement politiquement antagonistes."
+    },
+    {
+      "id": "40",
+      "question": "Citer quelques anciens Ministres sous François HOLLANDE ?",
+      "answer": "Manuel Valls / Ségolène royal / Emmanuel macron / Jean-Yves le drian / Sylvia Pinel / Christiane Taubira."
+    },
+    {
+      "id": "41",
+      "question": "Citer les Présidents de la cinquième République ?",
+      "answer": "Charles de gaulle / Georges Pompidou / Valéry Giscard d’Estaing / François Mitterrand / Jacques Chirac / Nicolas Sarkozy / François Hollande / Emmanuel Macron."
+    },
+    {
+      "id": "42",
+      "question": "Combien de cohabitations en eu lieu dans la Vème République ?",
+      "answer": "Trois cohabitations : Jacques Chirac et Edouard Balladur sous François Mitterrand / Lionel Jospin sous Jacques Chirac."
+    },
+    {
+      "id": "43",
+      "question": "Citer quelques Ministres actuels ?",
+      "answer": "Bruno Le Maire, ministre de l'Economie / Gérald Darmanin, ministre de l'Intérieur/ Éric Dupond-Moretti, ministre de la Justice /  Pap Ndiaye, ministre de l'Education."
+    },
+    {
+      "id": "44",
+      "question": "Que fait le pouvoir exécutif ?",
+      "answer": "Il met en œuvre les lois et conduit la politique nationale. À cette fin, il a le pouvoir d’édicter des règlements et il dispose de l’administration et de la force armée."
+    },
+    {
+      "id": "45",
+      "question": "Que fait le pouvoir législatif ?",
+      "answer": "Il est chargé de la rédaction et de l’adoption des lois mais également du contrôle de l’exécutif."
+    },
+    {
+      "id": "46",
+      "question": "Que fait le pouvoir judiciaire ?",
+      "answer": "Il veille à ce que les lois soient respectées et sanctionne leur non-respect."
+    },
+    {
+      "id": "47",
+      "question": "Quels sont les fonctions du parlement ?",
+      "answer": "Le parlement, composé de l’assemblée nationale et du sénat, vote les lois et contrôle le gouvernement. Les députés à l’assemblée nationale sont élus tous les 5 ans aux élections législatives (577 députés) et les sénateurs (348 sénateurs) tous les 6 ans par les grand électeurs (suffrage universel indirect)."
+    },
+    {
+      "id": "48",
+      "question": "Quels sont les fonctions du Président de la République",
+      "answer": "Le Président de la République est élu au suffrage universel direct à deux tours pour 5 ans. Il nomme le gouvernement, dirigé par le premier Ministre, issu de la majorité aux élections législatives, il est le chef des armés, il négocie et ratifie les traités."
+    },
+    {
+      "id": "49",
+      "question": "Quels sont les fonctions de la justice ?",
+      "answer": "La justice est exercée par les magistrats. Elle sanctionne les infractions à la loi, par la prison ou les autres peines prévues par la loi. Elle règle les litiges entre les particuliers ou les entreprises, et entre les citoyens et l’administration."
+    },
+    {
+      "id": "50",
+      "question": "Quelle est la population de la France ?",
+      "answer": "67,4 millions (2021)."
+    },
+    {
+      "id": "51",
+      "question": "Quelle est la surface de la France ?",
+      "answer": "675 000 km², en métropole et outre-mer."
+    },
+    {
+      "id": "52",
+      "question": "Quelle est la forme de l'état français ?",
+      "answer": "République unitaire semi-Présidentielle."
+    },
+    {
+      "id": "53",
+      "question": "Quels sont les pays frontaliers à la France ?",
+      "answer": "En métropole : la Belgique - le Luxembourg - l’Allemagne - la suisse - l’Italie - Monaco - l’Espagne - Andorre. /outre-mer : le brésil - le Suriname - les Pays-Bas."
+    },
+    {
+      "id": "54",
+      "question": "Quelles sont les mers qui entourent à la France ?",
+      "answer": "Mer du nord - la manche - la mer celtique - le golfe de Gascogne - mer méditerranée."
+    },
+    {
+      "id": "55",
+      "question": "Quels sont les océans qui entourent à la France ?",
+      "answer": "Tous les océans du monde."
+    },
+    {
+      "id": "56",
+      "question": "Quelles sont les montagnes en France ?",
+      "answer": "Le jura, les alpes, les Pyrénées, les Vosges, massif centrale.",
+      "images": [
+        "assets/images/MONTAGNES.jpg"
+      ]
+    },
+    {
+      "id": "57",
+      "question": "Quels sont les fleuves importants en France ?",
+      "answer": "La seine, le Rhône, la Garonne, le Rhin, la Loire (plus long).",
+      "images": [
+        "assets/images/Fleuves.jpg"
+      ]
+    },
+    {
+      "id": "58",
+      "question": "Quel est le plus haut sommet en France ?",
+      "answer": "Mont-blanc (alpes) 4810 m."
+    },
+    {
+      "id": "59",
+      "question": "Quel est le patrimoine mondial de l’humanité présent en France ?",
+      "answer": "Mont-saint-michel (abbaye) en Normandie / la grotte de Lascaux."
+    },
+    {
+      "id": "60",
+      "question": "Quels sont les villes les plus importantes en France ?",
+      "answer": "Paris, Marseille, Lyon, Toulouse, Lille, Bordeaux, Nice, Nantes, Strasbourg et Rennes."
+    },
+    {
+      "id": "61",
+      "question": "Quelle place occupe la France dans le monde ?",
+      "answer": "La France occupe le 6ème rang mondiale et la première destination touristique au monde. Ses secteurs d’excellence sont l’aéronautique, le luxe et leader mondial du transport maritime et ferroviaire."
+    },
+    {
+      "id": "62",
+      "question": "Combien de commune y a-t-il en France ?",
+      "answer": "34 965 communes (2021) (administrées par maire et conseil municipal)."
+    },
+    {
+      "id": "63",
+      "question": "Combien de département y a-t-il en France ?",
+      "answer": "101 départements (96 métropolitains + 5 outre-mer) administrés par les conseils départementaux."
+    },
+    {
+      "id": "64",
+      "question": "Combien de région y a-t-il en France ?",
+      "answer": "18 régions (13 métropolitain + 5 outre-mer) administrés par les conseils régionaux."
+    },
+    {
+      "id": "65",
+      "question": "Citer les département d'outre-mer ?",
+      "answer": "La Guadeloupe - la Guyane - la Martinique - Mayotte – la Réunion.",
+      "images": [
+        "assets/images/DOM1.jpg",
+        "assets/images/DOM2.jpg"
+      ]
+    },
+    {
+      "id": "66",
+      "question": "Citer les collectivités d’outre-mer ?",
+      "answer": "Saint-Pierre-et-Miquelon - Wallis-et-Futuna - La Polynésie française - Saint-Martin - Saint-Barthélemy - Nouvelle-Calédonie - terres Australes et Antarctiques françaises.",
+      "images": [
+        "assets/images/TOM.jpg"
+      ]
+    },
+    {
+      "id": "67",
+      "question": "Comment sont nommés les préfets ?",
+      "answer": "Ils sont nommés par le Président de la République, c’est les représentant de l’état, ils mettent en avant et défendent les intérêts de l’état."
+    },
+    {
+      "id": "68",
+      "question": "Quand a été signé le traité de Rome ?",
+      "answer": "En 1957."
+    },
+    {
+      "id": "69",
+      "question": "Quels sont les pays fondateurs de la communauté économique européenne ?",
+      "answer": "L’Allemagne de l'ouest, la Belgique, la France, l’Italie, le Luxembourg et les Pays-Bas."
+    },
+    {
+      "id": "70",
+      "question": "Quand a été créé l’union européenne ?",
+      "answer": "Le 7 février 1992 traité de Maastricht), qui associe plus étroitement les états membres. aujourd’hui, l’union compte 27 états membres depuis le brexit 2020, qui partagent des principes démocratiques. La charte des droits fondamentaux de l’union européenne, adoptée en 2000, garantit les droits des personnes."
+    },
+    {
+      "id": "71",
+      "question": "Est-ce que les français votent aux élections du parlement européen ?",
+      "answer": "Les citoyens français sont aussi citoyens européens. ils votent au suffrage universel direct aux élections du parlement européen tous les cinq ans (74 députés). ils sont libres de circuler, de travailler, d’étudier, de s’installer dans les autres pays de l’union européenne. Dans ce cas, ils peuvent voter aux élections locales du pays dans lequel ils sont installés."
+    },
+    {
+      "id": "72",
+      "question": "Dans quelle organisations internationales la France est membre ?",
+      "answer": "Elle est membre permanent du conseil de sécurité de l’organisation des nations unies (onu). Elle a le droit de véto."
+    },
+    {
+      "id": "73",
+      "question": "Quels sont les pays membres de l’union européenne ?",
+      "answer": "L’Allemagne / la Finlande / Malte / l’Autriche / la France / les Pays-Bas / la Belgique / la Grèce / la Pologne / la Bulgarie / la Hongrie / le Portugal / Chypre / l'Irlande / la Tchéquie / la Croatie / l’Italie / la Roumanie / le Danemark / la Lettonie / la Slovaquie / l'Espagne / la Lituanie / la Slovénie / l’Estonie / le Luxembourg / la suède."
+    },
+    {
+      "id": "74",
+      "question": "Où siège l’union européen ?",
+      "answer": "Bruxelles.",
+      "images": [
+        "assets/images/SUE.jpg"
+      ]
+    },
+    {
+      "id": "75",
+      "question": "Où siège le parlement européen ?",
+      "answer": "Strasbourg.",
+      "images": [
+        "assets/images/PUE.jpg"
+      ]
+    },
+    {
+      "id": "76",
+      "question": "Quels sont les symboles de l’Europe ?",
+      "answer": "Le drapeau, la devise, l’hymne européenne, le 9 mai, l’euro."
+    },
+    {
+      "id": "77",
+      "question": "Comment est représenté le drapeau européen et qu'est ce qu’il symbolise ?",
+      "answer": "C’est un cercle de 12 Etoiles d’orées sur fond bleu, il symbolise l’unité et l’harmonie.",
+      "images": [
+        "assets/images/DUE.jpg"
+      ]
+    },
+    {
+      "id": "78",
+      "question": "Quelle est la devise de l’Europe ?",
+      "answer": "Unis dans la diversité."
+    },
+    {
+      "id": "79",
+      "question": "Quelle est l'hymne européenne ?",
+      "answer": "Ode à la joie (la 9ᵉ symphonie de Beethoven)."
+    },
+    {
+      "id": "80",
+      "question": "Depuis quand a été adopté l'euro en France ?",
+      "answer": "Depuis 2000, la France partage avec 19 autres pays membres de l’union européenne une monnaie unique : l’euro."
+    },
+    {
+      "id": "81",
+      "question": "C’est quoi l'espace Schengen ?",
+      "answer": "L’espace Schengen désigne un espace de libre circulation des personnes. Ce principe implique le libre franchissement des frontières par tout individu entré sur le territoire d’un des états membres de l’espace Schengen."
+    },
+    {
+      "id": "82",
+      "question": "Quels sont les états membres de la zone euro ?",
+      "answer": "Allemagne / Portugal / Autriche / la Grèce /Belgique / la Slovénie / Espagne / chypre /Finlande / Malte / France / la Slovaquie / Irlande / l’Estonie / Italie / la Lettonie Luxembourg / la Lituanie / Pays-Bas.",
+      "images": [
+        "assets/images/ZEURO.jpg"
+      ]
+    },
+    {
+      "id": "83",
+      "question": "Quels sont les évènements sportifs en France ?",
+      "answer": "Tours de France, Roland Garos, 24 h du Mans.",
+      "images": [
+        "assets/images/24MANS.jpg",
+        "assets/images/GAROS.jpg",
+        "assets/images/TFRANCE.jpg"
+      ]
+    },
+    {
+      "id": "84",
+      "question": "Citer des plats français ?",
+      "answer": "Tartiflette / les galettes bretonnes / la quiche lorraine / le bœuf bourguignon / le gratin dauphinois.",
+      "images": [
+        "assets/images/bourguignon.jpg",
+        "assets/images/dauphinois.jpg",
+        "assets/images/Gbretonnes.jpg",
+        "assets/images/quiche.jpg",
+        "assets/images/Tartiflette.jpg"
+      ]
+    },
+    {
+      "id": "85",
+      "question": "Citer des artistes français ?",
+      "answer": "Francis Cabrel / Coluche / Jean Nouvel / Jean Dujardin.",
+      "images": [
+        "assets/images/CABREL.jpg",
+        "assets/images/NOVEL.jpg",
+        "assets/images/COLUCHE.jpg",
+        "assets/images/DUJARDIN.jpg"
+      ]
+    },
+    {
+      "id": "86",
+      "question": "Qui sont les philosophes des lumières ?",
+      "answer": "Ils dénoncent les inégalités sociale, monarchie absolue, l’esclavage. Ils combattent pour la tolérance et la liberté d’expression. Voltaire /Denis Diderot / Rousseau / Locke / Montesquieu / Bayle / Kant / Descartes / Condorcet /Condillac /Godwin / d’Alembert.",
+      "images": [
+        "assets/images/LUMIERE.jpg"
+      ]
+    },
+    {
+      "id": "87",
+      "question": "Qui parmi les philosophes des lumières qui a été emprisonné à la bastille ?",
+      "answer": "Voltaire."
+    },
+    {
+      "id": "88",
+      "question": "Citer des monuments français ?",
+      "answer": "Le château de Versailles / l'arc de triomphe / la tours Eiffel.",
+      "images": [
+        "assets/images/Eiffel.jpg",
+        "assets/images/Versailles.jpg",
+        "assets/images/triomphe.jpg"
+      ]
+    },
+    {
+      "id": "89",
+      "question": "Qui a construit le château de Versailles ?",
+      "answer": "Louis XIV (le Roi soleil).",
+      "images": [
+        "assets/images/Versailles.jpg "
+      ]
+    },
+    {
+      "id": "90",
+      "question": "Qui a construit l'arc de triomphe ?",
+      "answer": "1806 Napoléon I.",
+      "images": [
+        "assets/images/triomphe.jpg"
+      ]
+    },
+    {
+      "id": "91",
+      "question": "Quand a été construit la tours Eiffel ?",
+      "answer": "Pour l'exposition universel de Paris 1889.",
+      "images": [
+        "assets/images/Eiffel.jpg"
+      ]
+    },
+    {
+      "id": "92",
+      "question": "Citer des jours fériés en France ?",
+      "answer": "1 janvier - le jour de l’an / 1 mai - la fête du travail / 8 mai -la victoire de 1945 / 14 juillet -la fête nationale /15 aout -l’Assomption / 1 novembre - la toussaint /11 novembre - l’Armistice / 25 décembre – Noël."
+    },
+    {
+      "id": "93",
+      "question": "Cites des auteurs français et leurs ouvrages ?",
+      "answer": "Alexandre Dumas : les trois mousquetaires / Victor Hugo : les misérables, Notre-Dame de Paris / Molière : l'avare, le malade imaginaire / Albert camus : l'étranger / Emile Zola : germinal Balzac : illusions perdues."
+    },
+    {
+      "id": "94",
+      "question": "Cites des peintres français et leurs œuvres ?",
+      "answer": "Paul Cézanne - la corbeille de pommes / Claude Monet - femmes au jardin.",
+      "images": [
+        "assets/images/Monet.jpg",
+        "assets/images/Cézanne.jpg"
+      ]
+    },
+    {
+      "id": "95",
+      "question": "Cites des personnalités qui ont été naturalisé ?",
+      "answer": "Joséphine Baker / Marie Curie / Dalida.",
+      "images": [
+        "assets/images/Baker.jpg",
+        "assets/images/Dalida.jpg",
+        "assets/images/Curie.jpg"
+      ]
+    },
+    {
+      "id": "96",
+      "question": "Cites des personnalités issues de l’immigration ?",
+      "answer": "Michel Platini / Zinedine Zidane / Gad Elmaleh.",
+      "images": [
+        "assets/images/Gad.jpg",
+        "assets/images/Zidane.jpg",
+        "assets/images/Platini.jpg"
+      ]
+    },
+    {
+      "id": "97",
+      "question": "Cites des Rois de France ?",
+      "answer": "Clovis - Roi des francs / Charlemagne - Roi carolingien / Roi Charles VII / Roi Henri IV.",
+      "images": [
+        "assets/images/Charlemagne.jpg",
+        "assets/images/Clovis.jpg",
+        "assets/images/Henri.jpg"
+      ]
+    },
+    {
+      "id": "98",
+      "question": "Quels sont les trois grands ordres du royaume sous l'ancien régime ?",
+      "answer": "La noblesse / le clergé / tiers état."
+    },
+    {
+      "id": "99",
+      "question": "Pourquoi vous voulais devenir français ?",
+      "answer": "Je veux devenir français parce que ça fait maintenant 5 ans depuis que je suis en France, je vie en France, je suis établie en France, j’ai étudié en France, je travaille en France, mes intérêts sont en France. J’aime ce beau pays, plein de richesse, plein de culture, qui rayonnent à travers le monde. Je suis attaché à la culture et aux valeurs française qui sont : la liberté, l’égalité, la fraternité. Que j’ai eu la chance de voir durant toutes ces années passées ici. C’est ce lien fort avec la France qui m’amène aujourd‘hui à demander la naturalisation pour compléter mon intégration et faire partie à part entière de ce pays et de cette population et participer à la démocratie et à la citoyenneté."
+    },
+    {
+      "id": "100",
+      "question": "Que connaissez-vous de votre ville ?",
+      "answer": "Région : Ile-de-France. / Département : Val-de-Marne (94). / Préfecture : Créteil. / Préfète du Val-de-Marne : Mme. Sophie Thibault / Arrondissement : Nogent-sur-Marne (sous-préfecture). / sous-préfet de Nogent-sur-Marne : M. Bachir Bakhti / chef-lieu du canton : Villiers / le plessis-trévise / Bry-sur-Marne. /population : 28 567 habitants (2020). / Villiers : semble-t-il, tire son nom de la période gallo-romaine. Au Vème siècle, villa, désignant une partie de la villa romaine, donna la dénomination Villiers. / Maire : depuis 1995 : M. Jacques-Alain Bénistis et de 1977 à 1995 m. serge Delaporte."
+    },
+    {
+      "id": "101",
+      "question": "Que vous évoque l'année 1957 ?",
+      "answer": "Traité de Rome - la communauté économique européenne."
+    },
+    {
+      "id": "102",
+      "question": "Que vous évoque le 4 octobre 1958 ?",
+      "answer": "La Vème République proclamé par le Président Charles de gaulle + la constitution."
+    },
+    {
+      "id": "103",
+      "question": "Que vous évoque l’année 1962 ?",
+      "answer": "Suffrage universel et la séparation des pouvoirs."
+    },
+    {
+      "id": "104",
+      "question": "Que vous évoque Mai 1968 ?",
+      "answer": "Manifestations d'étudiants qui a pour résultat les accords de grenelle et la dissolution de l'assemblée nationale, le slogan (il est interdit d'interdire !)."
+    },
+    {
+      "id": "105",
+      "question": "Que vous évoque l’année 1969 ?",
+      "answer": "Démission Charles de gaulle suite au référendum sur les régions, intérim par Alain Poher."
+    },
+    {
+      "id": "106",
+      "question": "Que vous évoque l’année 1974 ?",
+      "answer": "L’âge de la majorité est fixé à 18 ans (Valéry Giscard d’Estaing)."
+    },
+    {
+      "id": "107",
+      "question": "Que vous évoque l’année 1975 ?",
+      "answer": "Loi sur IVG préparée par Simone Veil. Elle dépénalise l’avortement."
+    },
+    {
+      "id": "108",
+      "question": "Que vous évoque l’année 1981 ?",
+      "answer": "Abolition de la peine de mort en France (Robert Badinter)."
+    },
+    {
+      "id": "109",
+      "question": "Depuis quand date le traité de Rome et la communauté économique européenne ?",
+      "answer": "En 1957."
+    },
+    {
+      "id": "110",
+      "question": "Depuis quand date la Vème République ?",
+      "answer": "Le 4 octobre 1958."
+    },
+    {
+      "id": "111",
+      "question": "Depuis quand date le suffrage universel et la séparation des pouvoirs ?",
+      "answer": "En 1962."
+    },
+    {
+      "id": "112",
+      "question": "Depuis quand date les accords de GRENELLE ?",
+      "answer": "En mai 1968."
+    },
+    {
+      "id": "113",
+      "question": "Quand à démissionner Charles de gaulle ?",
+      "answer": "En 1969."
+    },
+    {
+      "id": "114",
+      "question": "Quand est ce que la majorité a été fixé à 18 ans ?",
+      "answer": "En 1974."
+    },
+    {
+      "id": "115",
+      "question": "Depuis quand date la loi sur IVG ?",
+      "answer": "En 1975."
+    },
+    {
+      "id": "116",
+      "question": "Depuis quand date l'abolition de la peine de mort en France ?",
+      "answer": "En 1981."
+    },
+    {
+      "id": "117",
+      "question": "Depuis quand date l’union européenne ?",
+      "answer": "7 février 1992, l’union européenne est créée (traité de Maastricht), et le peuple français vote au parlement européen."
+    },
+    {
+      "id": "118",
+      "question": "Depuis quand date le Brexit ?",
+      "answer": "En 2020."
+    },
+    {
+      "id": "119",
+      "question": "Depuis quand date le passage du septennat au quinquennat ?",
+      "answer": "Loi de 2000 appliqué en 2002 : passage du septennat au quinquennat."
+    },
+    {
+      "id": "120",
+      "question": "Depuis quand date le passage à l'euro ?",
+      "answer": "En 2000."
+    },
+    {
+      "id": "121",
+      "question": "Depuis quand le français est devenu langue de la République ?",
+      "answer": "En 1992."
+    },
+    {
+      "id": "122",
+      "question": "Que vous évoque le 7 février 1992 ?",
+      "answer": "Création de l’union européenne."
+    },
+    {
+      "id": "123",
+      "question": "Que vous évoque l'année 1799 ?",
+      "answer": "Le coup d’état - napoléon I."
+    },
+    {
+      "id": "124",
+      "question": "Depuis quand date le coup d’état de Napoléon Ier ?",
+      "answer": "En 1799."
+    },
+    {
+      "id": "125",
+      "question": "Que vous évoque l'année 1848 ?",
+      "answer": "Droit de vote pour les hommes / abolition de l’esclavage / fin règne du dernier Roi de France - Louis Philippe."
+    },
+    {
+      "id": "126",
+      "question": "Depuis quand date le droit de vote pour les hommes ?",
+      "answer": "En 1848."
+    },
+    {
+      "id": "127",
+      "question": "Depuis quand date l'abolition de l’esclavage ?",
+      "answer": "En 1848."
+    },
+    {
+      "id": "128",
+      "question": "Qui était le dernier Roi de France et quelle était l'année de fin de son règne ?",
+      "answer": "Louis Philippe 1848."
+    },
+    {
+      "id": "129",
+      "question": "Que vous évoque l'année 1875 ?",
+      "answer": "La République est installée de façon stable."
+    },
+    {
+      "id": "130",
+      "question": "Depuis quand la République est installée de façon stable ?",
+      "answer": "En 1875."
+    },
+    {
+      "id": "131",
+      "question": "Que vous évoque l'année 1880 ?",
+      "answer": "Jules Ferry rend l’enseignement public, gratuit et laïc obligatoire (de 3 à 16 ans) / la liberté de la presse."
+    },
+    {
+      "id": "132",
+      "question": "Depuis quand l’enseignement public gratuit et laïc est obligatoire ?",
+      "answer": "En 1880."
+    },
+    {
+      "id": "133",
+      "question": "Que vous évoque l'année 1916 ?",
+      "answer": "La bataille de Verdun (France vainqueur contre Allemagne)."
+    },
+    {
+      "id": "134",
+      "question": "De quand date la bataille de Verdun ?",
+      "answer": "En 1916."
+    },
+    {
+      "id": "135",
+      "question": "Que vous évoque le 11 novembre 1918 ?",
+      "answer": "Ière Armistice, fin première guerre mondiale (9 millions de morts)."
+    },
+    {
+      "id": "136",
+      "question": "De quand date la Ière Armistice ?",
+      "answer": "Le 11 novembre 1918."
+    },
+    {
+      "id": "137",
+      "question": "Que vous évoque la période de 1940 à 1944 ?",
+      "answer": "Le régime de Vichy (capital Vichy - Paris) -le Maréchal Pétain, il collaborait avec les nazis, il y a eu plusieurs déportations."
+    },
+    {
+      "id": "138",
+      "question": "De quand date le régime de Vichy ?",
+      "answer": "1940- 1944 (capital vichy-Paris) -le Maréchal Pétain."
+    },
+    {
+      "id": "139",
+      "question": "Que vous évoque le 18 juin 1940 ?",
+      "answer": "Appel du général Charles de gaulle à résister contre les nazi- 2ème guerre mondial (il était exilé en Angleterre)."
+    },
+    {
+      "id": "140",
+      "question": "Quand est ce qu'a eu lieu l'appel du Général Charles de gaulle ?",
+      "answer": "Le 18 juin 1940."
+    },
+    {
+      "id": "141",
+      "question": "Que vous évoque le 22 juin 1940 ?",
+      "answer": "La IIème Armistice."
+    },
+    {
+      "id": "142",
+      "question": "De quand date la IIème Armistice ?",
+      "answer": "Le 22 juin 1940."
+    },
+    {
+      "id": "143",
+      "question": "Que vous évoque l'année 1943 ?",
+      "answer": "La mort de Jean Moulin - 2ème guerre mondiale, haut fonctionnaire et icone de la résistance. Mort torturé à la gare de Metz."
+    },
+    {
+      "id": "144",
+      "question": "Quand est mort Jean MOULIN ?",
+      "answer": "En 1943."
+    },
+    {
+      "id": "145",
+      "question": "Qui était Jean MOULIN ?",
+      "answer": "C’était un haut fonctionnaire et icone de la résistance. Mort torturé à la gare de Metz."
+    },
+    {
+      "id": "146",
+      "question": "Que vous évoque l'année 1944 ?",
+      "answer": "Droit de vote pour les femmes."
+    },
+    {
+      "id": "147",
+      "question": "À quand remonte le droit de vote pour les femmes ?",
+      "answer": "En 1944."
+    },
+    {
+      "id": "148",
+      "question": "Que vous évoque l'année 1945 ?",
+      "answer": "Fin de la seconde guerre mondiale en Europe (50 millions de morts) / le système de sécurité sociale."
+    },
+    {
+      "id": "149",
+      "question": "Quand a eu lieu la fin de la seconde guerre mondiale ?",
+      "answer": "Le 08 mai 1945."
+    },
+    {
+      "id": "150",
+      "question": "À quand remonte le système de sécurité sociale ?",
+      "answer": "En 1945."
+    },
+    {
+      "id": "151",
+      "question": "Que vous évoque la période de 50 av. J.-C. ?",
+      "answer": "L’installation des romains et l'influence durable sur les populations locales qui adoptent leur mode de vie et la culture latine."
+    },
+    {
+      "id": "152",
+      "question": "De quand date l’installation des romains en France ?",
+      "answer": "50 av. J.-C."
+    },
+    {
+      "id": "153",
+      "question": "Qui à régner de 466 à 511 ?",
+      "answer": "Le règne de Clovis, il unifie les royaumes de différents peuples francs. Il adopte la religion chrétienne."
+    },
+    {
+      "id": "154",
+      "question": "De quand date le règne de Clovis ?",
+      "answer": "De 466 à 511."
+    },
+    {
+      "id": "155",
+      "question": "Que vous évoque la période de 1412 à 1431 ?",
+      "answer": "La vie de Jeanne d’ARC, pendant la guerre de cent-ans contre l’Angleterre, jeanne d’arc conduit les troupes françaises à la libération d’une partie du territoire français.",
+      "images": [
+        "assets/images/Jean.jpg"
+      ]
+    },
+    {
+      "id": "156",
+      "question": "Quand est ce qu'a vécu Jeanne d’ARC ?",
+      "answer": "De 1412 à 1431."
+    },
+    {
+      "id": "157",
+      "question": "Que vous évoque l'année 1431 ?",
+      "answer": "La mort de Jeanne d’ARC, brulée vif à 19 ans - la pucelle d’Orléans."
+    },
+    {
+      "id": "158",
+      "question": "Que s'est-il passé sous le règne d’Henri IV ?",
+      "answer": "L’édit de Nantes de 1598, accorde aux protestants la liberté d’exercer leur religion et rétablit la paix religieuse."
+    },
+    {
+      "id": "159",
+      "question": "Qui à régner de 1553 à 1610 ?",
+      "answer": "Le Roi Henri IV."
+    },
+    {
+      "id": "160",
+      "question": "Qui à régner de 1643 à 1715 ?",
+      "answer": "Le règne de louis XIV."
+    },
+    {
+      "id": "161",
+      "question": "Que s'est-il passé sous le règne de louis XIV ?",
+      "answer": "Monarchie absolue. Le Roi concentre tous les pouvoirs. À cette époque, il met en place un état puissant et centralisé."
+    },
+    {
+      "id": "162",
+      "question": "Que vous évoque le 14 juillet 1790 ?",
+      "answer": "La fête de la fédération qui fêtait l'unité de tous les français."
+    },
+    {
+      "id": "163",
+      "question": "À quand remonte la fête de la fédération ?",
+      "answer": "14 juillet 1790."
+    },
+    {
+      "id": "164",
+      "question": "Que vous évoque l'année 1793 ?",
+      "answer": "Le Roi louis XVI est guillotiné et sa femme marie Antoinette d’Autriche en octobre 1793."
+    },
+    {
+      "id": "165",
+      "question": "Quand est ce que le Roi louis XVI a été guillotiné ?",
+      "answer": "En 1793."
+    },
+    {
+      "id": "166",
+      "question": "Quand est ce qu'est morte Marie Antoinette d’Autriche ?",
+      "answer": "En octobre 1793."
+    },
+    {
+      "id": "167",
+      "question": "Qui était la femme de louis XVI ?",
+      "answer": "Marie Antoinette d’Autriche."
+    },
+    {
+      "id": "168",
+      "question": "Que vous évoque l'année 1792 ?",
+      "answer": "Proclamation de la Ière République / déclaration de guerre à l’Autriche / la Marseillaise."
+    },
+    {
+      "id": "169",
+      "question": "Quand est ce que la Ière République a été proclamé ?",
+      "answer": "En 1792."
+    },
+    {
+      "id": "170",
+      "question": "Quand est ce que la guerre à l’Autriche a été déclaré ?",
+      "answer": "En 1792."
+    },
+    {
+      "id": "171",
+      "question": "Quand est ce qu'est née la Marseillaise ?",
+      "answer": "En 1792."
+    },
+    {
+      "id": "172",
+      "question": "De quand date la Révolution française ?",
+      "answer": "Le 5 mai 1789."
+    },
+    {
+      "id": "173",
+      "question": "Quelle est la période de la Révolution française ?",
+      "answer": "De 1789 à 1799."
+    },
+    {
+      "id": "174",
+      "question": "Que vous évoque le 14 juillet 1789 ?",
+      "answer": "Le peuple de Paris s’empare de la prison royale de la bastille. Symbole de la liberté. (Voltaire a été emprisonné à la bastille)."
+    },
+    {
+      "id": "175",
+      "question": "De quand date la prise de la bastille ?",
+      "answer": "Le 14 juillet 1789."
+    },
+    {
+      "id": "176",
+      "question": "Que vous évoque le 4 Août 1789 ?",
+      "answer": "Abolition des privilèges des Rois."
+    },
+    {
+      "id": "177",
+      "question": "De quand date l'abolition des privilèges des Rois ?",
+      "answer": "Le 4 Août 1789."
+    },
+    {
+      "id": "178",
+      "question": "Que vous évoque le 26 Août 1789 ?",
+      "answer": "La déclaration des droits de l’homme et du citoyen du (17 articles)."
+    },
+    {
+      "id": "179",
+      "question": "De quand date la déclaration des droits de l’homme et du citoyen ?",
+      "answer": "Le 26 Août 1789."
+    }
+  ]
+}
