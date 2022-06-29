@@ -53,10 +53,17 @@
   .controller-btn {
     border-radius: 50px;
     border: 2px solid #002153;
+    width: 150px;
+    height: 50px;
   }
   .controller-btn:hover {
     color: #fff;
     background-color: #002153;
+  }
+
+  .mat-icon{
+    font-size: 30px;
+    font-weight: bold;
   }
 
   .quiz-question-container {
