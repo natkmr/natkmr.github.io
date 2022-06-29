@@ -26,18 +26,20 @@
   }
 
   .control-text{
-    font-size: 12px;
+    font-size: 20px;
+    margin: 10px;
   }
   .quiz-question-number {
     text-shadow: 2px 2px #E35020;
     color: #fff;
     padding: 4px;
-    width: 36px
+    width: 36px;
+
   }
   .quiz-question,
   .quiz-question-number {
     font-family: Oswald, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     line-height: normal;
     font-weight: 600;
     text-align: center
@@ -97,8 +99,8 @@
   }
 
   .quiz-image{
-    width: 150px;
-    height: 150px;;
+    width: 200px;
+    height: 200px;;
   }
 }
 
